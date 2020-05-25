@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/stevenkcolin/testOz4#readme",
   "dependencies": {
-    "@openzeppelin/cli": "^2.8.2"
+    "@openzeppelin/cli": "^2.8.2",
+    "truffle": "^5.1.27"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^3.0.1",
